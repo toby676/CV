@@ -2,40 +2,40 @@
 
 #### Former IT Hardware Salesperson turned Full Stack developer
 
-Working in a sales environment for 4 years has been great and has taught me some invaluable lessons (bulleted below), but I have always dreamt of a career where I can hone a real skill, a skill that I am passionate about.
+I have worked in a sales environment for the last 4 years. It was great and taught me some invaluable lessons (bulleted below), but I have always dreamt of a career where I can hone a real skill, a skill that I am passionate about.
 
-Looking back on the last 16 weeks at Makers Academy, the amount I've learnt is incredible. I've gone from knowing nothing about programming to building a full stack application in 10 days that I'm truly proud of, having barely been exposed to the technologies used at all. (Node, MongoDB, Zombie.)
+Looking back on the last 16 weeks at Makers Academy, the amount I've learnt is incredible. I've gone from knowing nothing about programming to using TDD and Pairing to write clean, maintainable code for projects I'm truly proud of.
 
-I can't wait for the next step. The opportunity to learn more and be of real value to a company is truly exciting for me. I've learnt the basics, I've learnt how to learn, and now I look forward to becoming the best programmer I possibly can be.
+I can't wait for the next step. The opportunity to work with amazing people, learn even more and be of real value to a company is truly exciting for me. I have never been happier, I know how to pick up a new technology, and I look forward to becoming the best programmer I possibly can be.
 
 ## Skills
 
 #### Teamwork & Communication
 
-I've always relished being part of a team. I love working with other people. Pair programming and Group Projects have been areas of programming that I really enjoy. I've never had a moment where I couldn't work with someone while programming, be it needing to slow down and really explain an idea to someone, or fully listening and understanding what my pair was guiding me through.
-- Understanding and extracting the true needs of clients through listening and questions.
-- Learning how to develop relationships with new and existing clients.
+I've always relished being part of a team and thrive when working with other people. Pairing and Group work have been a part of programming I really care about. I've never had a moment where I couldn't work with someone, be it needing to slow down and really explain an idea to someone, or listening and understanding what my partner has to teach me.
+- Understanding and extracting the true needs of clients through listening and asking the right questions.
+- Learning how to develop relationships with new and existing (80) clients.
 - Working in sales teams of 4-6, supporting and looking out for each other.
 
-#### Thirst for Learning
+#### Learning Efficiently
 
-I want to learn as much as I can about a technology while using it. I hesitate to write a line of code without understanding it. This gave me the ability to solve problems more efficiently when a wall of red text appeared.
-- I didn't want to be another 'box shifter'. I wanted to inform and help my clients where possible so I learnt about the products in depth.
+Each week we effectively had to start again with a new technology. I have not only learnt how to program, but also how to pick up a new language and add value to my team in a short space of time.
 - Appointed Audio-Visual (AV) Product Specialist.
+- AV Product Accreditation. I was the first and only person in the company to complete an exam to allow them to sell a certain line of products. I enjoyed it!
 - A multitude of hobbies including drums, guitar, skiing, snowboarding and flying my mini-drone.
 
-#### Learning efficiently
+#### Need to Understand
 
-Every week we were given a new subject, or technology to learn. I have learnt not only how to program, but also how to actually learn a new language. This gives me the ability to pick up any new technology or language incredibly quickly and efficiently.
-- Fastest to understand the world of HP server hardware solutions in order to sell them efficiently.
-- AV Product Accreditation. I was the first and only person in the company to complete an exam to allow them to sell a certain line of products. I enjoyed it!
+I want to learn as much as I can about a technology while working with it. I hesitate to implement a line of code without knowing what it does. This added to my ability to solve problems efficiently when a wall of red text appeared.
+- Went the extra mile to understand the technology of the products I was selling to best advise my clients.
+- Became the go to expert on other product lines in my team and for clients (Servers, Computers and unfortunately Printers...)
 
 #### Problem Solving
 
-Any time there was an issue in our projects I was usually called in. I love fixing a bug. I am extremely focused when there is a problem at hand and won't rest until it has been resolved. Using Zombie to test our node application with Javascript's asynchronous nature was an amazing learning experience!
+Any time there was an issue in our projects I was usually called in. I love fixing a bug. I am extremely focused when there is a problem at hand and won't rest until it has been resolved. Using Zombie to test our node application with Javascript's asynchronous nature was brutal but rewarding!
 - Fixing computer/excel related problems with colleagues!
-- Guiding clients through AV requirements over the phone who knew little about the subject.
-- Pragmatically working with clients to resolve issues, be it credit related or even an urgent missed delivery.
+- Guiding clients through unique AV solutions over the phone who knew little about the subject.
+- Pragmatically working with clients to resolve issues, be it credit related or an urgent missed delivery.
 
 ## Education
 
@@ -45,8 +45,8 @@ Any time there was an issue in our projects I was usually called in. I love fixi
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, PostgreSQL, MongoDB
-- Rspec, Jasmine, Mocha, Zombie
+- Ruby, Rails, Javascript, Node.js, PostgreSQL, MongoDB, Socket.IO
+- Rspec, Capybara, Jasmine, Mocha, Zombie
 
 #### University of Essex September 2009 – July 2012
 
