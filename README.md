@@ -1,37 +1,41 @@
 ## Toby Muir-Little
 
-Before becoming a developer I was a sales professional with an Economics degree. I'm used to working under pressure and in fast paced environments. The moment I started looking into coding I fell in love with it.
+### Former IT Hardware Salesperson turned Full Stack developer
 
-Having finished a 16 week intensive coding bootcamp (Makers Academy,) I've learnt so much in such a short amount of time - and I have a serious hunger to learn more. I have learnt not only technologies (Node, Javascript, Ruby, Rails, PostgreSQL, MongoDB among a few) I have also learnt to work by the XP principles, follow test driven development and how to learn efficiently.
+An Economics degree and working in a sales environment for 4 years has taught me some invaluable things which will be detailed below in bullet points, but I have always dreamt of a career where I can hone a real skill.
 
-I've always been the person who fixes problems at my previous jobs be it a vlookup in excel or a computer not turning on. I've always wanted to work with computers but was never given the chance to grow this until now.
+Looking back on the last 16 weeks at Makers Academy, the amount I've learnt is incredible. I've gone from knowing nothing at all about programming to building a full stack application in 10 days that I'm truly proud of, having barely been exposed to the technologies used at all. (Node, MongoDB, Zombie.)
+
+I can't wait for the next step. The opportunity to learn more and be of real value to a company is truly exciting for me. I've learnt the basics, I've learnt how to learn, and now I look forward to becoming the best programmer I possibly can be.
 
 ## Skills
 
-#### Enjoy Learning in depth
+### Teamwork & Communication
 
-I love nothing more than learning new things. In my previous sales career I was always the first to jump onto a new product and learn the ins and outs before talking to clients about it. This helped me a lot in my career as people want to speak to someone knowledgeable when buying from someone.
+I've always relished being part of a team. I love working with other people. Pair programming and Group Projects have been areas of programming that I really enjoy. I've never had a moment where I couldn't work with someone while programming, be it needing to slow down and really explain an idea to someone, or fully listening and understanding what my pair was guiding me through.
+- Understanding and extracting the true needs of clients through listening and questions.
+- Learning how to develop relationships with new and existing clients.
+- Working in sales teams of 4-6, supporting and looking out for each other.
 
-In terms of my time as a developer, this has manifested in the drive to learn as much as I can about a technology while using it. I hesitated to write a line of code without understanding as much as I can about it beforehand. This gave me the ability to solve problems efficiently when the inevitable wall of red text appeared.
+#### Thirst for Learning
 
+I want to learn as much as I can about a technology while using it. I hesitate to write a line of code without understanding it. This gave me the ability to solve problems more efficiently when a wall of red text appeared.
+- I didn't want to be another 'box shifter'. I wanted to inform and help my clients where possible so I learnt about the products in depth.
+- Appointed Audio-Visual (AV) Product Specialist.
+- A multitude of hobbies including drums, guitar, skiing, snowboarding and flying my mini-drone.
 
-#### Fast Learner
+#### Learning efficiently
 
-I am able to pick up new skills and learn quickly, I play guitar, ski, snowboard. In my previous career my ability to learn quickly landed me as the AV specialist in the company. In order to sell a certain product someone in the company had to take an exam and I took it upon myself to learn about it in depth, and quickly, and passed.
+Every week we were given a new subject, or technology to learn. I have learnt not only how to program, but also how to actually learn a new language. This gives me the ability to pick up any new technology or language incredibly quickly and efficiently.
+- Fastest to understand the world of HP server hardware solutions in order to sell them efficiently.
+- AV Product Accreditation. I was the first and only person in the company to complete an exam to allow them to sell a certain line of products. I enjoyed it!
 
-In my time at Makers, this has helped as every week we have had a new subject, or technology to learn. I have learnt not only how to program, but also how to learn a new language. This gives me the ability to pick up any new technology or language incredibly quickly and efficiently.
+#### Problem Solving
 
-#### Problem Solver
-
-I've always enjoyed numbers, puzzles, games and challenges. As an account manager I was always solving issues for my client for a multitude of reasons. I was always praised for my ability to help the client in an efficient and professional manner.
-
-Problem solving has been an essential skill while learning to program. Any time there was an issue or bug in my projects I was the first port of call once google had been exhausted. I am extremely focused when there is a problem at hand and won't rest until it has been resolved. One particular instance of this was testing during the final project. Using Zombie with Javascript's asynchronous nature was an amazing learning experience!
-
-#### Personable
-
-I love meeting new people and get on with people with all sorts of personalities. This was extremely helpful while being an account manager as my clients were all completely different people. In my professional life I've relished working in teams and love being a positive energy in a group.
-
-During Makers I have worked with so many different people and made some amazing friends. I got to work in great teams and have greatly enjoyed pair programming.
+Any time there was an issue in our projects I was usually called in. I love fixing a bug. I am extremely focused when there is a problem at hand and won't rest until it has been resolved. Using Zombie to test our node application with Javascript's asynchronous nature was an amazing learning experience!
+- Fixing computer/excel related problems with colleagues!
+- Guiding clients through AV requirements over the phone who knew little about the subject.
+- Pragmatically working with clients to resolve issues, be it credit related or even an urgent missed delivery.
 
 ## Education
 
@@ -41,13 +45,12 @@ During Makers I have worked with so many different people and made some amazing 
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js
+- Ruby, Rails, Javascript, Node.js, PostgreSQL, MongoDB
 - Rspec, Jasmine, Mocha, Zombie
 
 #### University of Essex September 2009 – July 2012
 
 - BSc Economics
-- Statistics heavy modules
 - Snow sports Society
 
 #### The King's School Canterbury September 2004 – July 2009
