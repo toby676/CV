@@ -1,10 +1,10 @@
 ## Toby Muir-Little
 
-### Former IT Hardware Salesperson turned Full Stack developer
+#### Former IT Hardware Salesperson turned Full Stack developer
 
-An Economics degree and working in a sales environment for 4 years has taught me some invaluable things which will be detailed below in bullet points, but I have always dreamt of a career where I can hone a real skill.
+Working in a sales environment for 4 years has been great and has taught me some invaluable lessons (bulleted below), but I have always dreamt of a career where I can hone a real skill, a skill that I am passionate about.
 
-Looking back on the last 16 weeks at Makers Academy, the amount I've learnt is incredible. I've gone from knowing nothing at all about programming to building a full stack application in 10 days that I'm truly proud of, having barely been exposed to the technologies used at all. (Node, MongoDB, Zombie.)
+Looking back on the last 16 weeks at Makers Academy, the amount I've learnt is incredible. I've gone from knowing nothing about programming to building a full stack application in 10 days that I'm truly proud of, having barely been exposed to the technologies used at all. (Node, MongoDB, Zombie.)
 
 I can't wait for the next step. The opportunity to learn more and be of real value to a company is truly exciting for me. I've learnt the basics, I've learnt how to learn, and now I look forward to becoming the best programmer I possibly can be.
 
