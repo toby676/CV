@@ -10,7 +10,7 @@ I can't wait for the next step. The opportunity to learn more and be of real val
 
 ## Skills
 
-### Teamwork & Communication
+#### Teamwork & Communication
 
 I've always relished being part of a team. I love working with other people. Pair programming and Group Projects have been areas of programming that I really enjoy. I've never had a moment where I couldn't work with someone while programming, be it needing to slow down and really explain an idea to someone, or fully listening and understanding what my pair was guiding me through.
 - Understanding and extracting the true needs of clients through listening and questions.
