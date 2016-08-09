@@ -14,7 +14,7 @@ I can't wait for the next step. The opportunity to work with amazing people, lea
 
 #### Teamwork & Communication
 
-I've always relished being part of a team and thrive when working with other people. Pairing and Group work have been a part of programming I really care about. I've never had a moment where I couldn't work with someone, be it needing to slow down and really explain an idea to someone, or listening and understanding what my partner has to teach me - especially when seeing javascript for the first time.
+I've always relished being part of a team and thrive when working with other people. Pairing and Group work have been a part of programming I really care about. I've never had a moment where I couldn't work with someone, be it needing to slow down and really explain an idea to someone, or listening and understanding what my partner has to teach me - especially when experiencing javascript for the first time.
 - Understanding and extracting the true needs of clients through listening and asking the right questions.
 - Learning how to develop relationships with new and existing (80) clients.
 - Working in sales teams of 4-6, supporting and looking out for each other.
