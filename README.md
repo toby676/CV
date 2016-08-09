@@ -1,6 +1,6 @@
 ## Toby Muir-Little
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [What my final project team said about me](#What my final project team said about me) | [Experience](#experience) | [Interests](#Interests)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [What my final project team said about me](#what-my-final-project-team-said-about-me) | [Experience](#experience) | [Interests](#Interests)
 
 #### Former IT Hardware Salesperson turned Full Stack developer
 
