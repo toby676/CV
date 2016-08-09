@@ -6,7 +6,7 @@
 
 I have worked in a sales environment for the last 4 years. It was great and taught me some invaluable lessons (bulleted below), but I have always dreamt of a career where I can hone a real skill, a skill that I am passionate about.
 
-Looking back on the last 16 weeks at Makers Academy, the amount I've learnt is incredible. I've gone from knowing nothing about programming to using TDD and Pairing to write clean, maintainable code for projects I'm truly proud of.
+Looking back on the last 16 weeks at Makers Academy, the amount I've learnt is incredible. I've gone from knowing nothing about programming to utilising TDD and Pairing to write clean, maintainable code for projects I'm truly proud of.
 
 I can't wait for the next step. The opportunity to work with amazing people, learn even more and be of real value to a company is truly exciting for me. I have never been happier, I know how to pick up a new technology, and I look forward to becoming the best programmer I possibly can be.
 
@@ -21,7 +21,7 @@ I've always relished being part of a team and thrive when working with other peo
 
 #### Learning Efficiently
 
-Each week we effectively had to start again with a new technology. I have not only learnt how to program, but also how to pick up a new language and add value to my team in a short space of time.
+At Makers, each week we effectively had to start again with a new technology or idea. I have not just learnt how to program, but also how to pick up a new language and add value to my team in a short space of time.
 - Appointed Audio-Visual (AV) Product Specialist.
 - AV Product Accreditation. I was the first and only person in the company to complete an exam to allow them to sell a certain line of products. I enjoyed it!
 - A multitude of hobbies including drums, guitar, skiing, snowboarding and flying my mini-drone.
@@ -43,8 +43,8 @@ Any time there was an issue in our projects I was usually called in. I love fixi
 
 | Project | Description | Technologies | Testing |
 |---|---|---|---|
-|[CodeFish](https://github.com/toby676/GlobalCodeNetwork) | Final project at Makers Academy. A website to help people learn code with live chat and a collaborative code window. A link to our video for the presentation can be found [here](https://vimeo.com/178160019) | Frontend: Javascript, Backend: Node.JS, MongoDB | Mocha, Chai, Zombie |
-| [SocialCode](https://github.com/toby676/social-code) | A web-based application designed to enable developers to find places in London to program with other developers | Ruby, Rails, Javascript | Rspec, Capybara
+|[CodeFish](https://github.com/toby676/GlobalCodeNetwork) | Final project at Makers Academy. A Web application using log-in, live chat and a real-time collaborative code window to facilitate a 1:1 mentoring experience. A link to our video for the presentation can be found [here](https://vimeo.com/178160019) | Frontend: Javascript, Backend: Node.JS, MongoDB | Mocha, Chai, Zombie |
+| [Social - Code](https://github.com/toby676/social-code) | A web-based application to enable developers to find places in London to program with other developers | Ruby, Rails, Javascript | Rspec, Capybara
 | [MakersBnB](https://github.com/toby676/makers-bnb) | | Rails | Rspec, Capybara |  
 
 ## What my final project team said about me
