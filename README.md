@@ -1,6 +1,6 @@
 ## Toby Muir-Little
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#Interests)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [What my final project team said about me](#What my final project team said about me) | [Experience](#experience) | [Interests](#Interests)
 
 #### Former IT Hardware Salesperson turned Full Stack developer
 
@@ -46,6 +46,15 @@ Any time there was an issue in our projects I was usually called in. I love fixi
 |[CodeFish](https://github.com/toby676/GlobalCodeNetwork) | Final project at Makers Academy. A website to help people learn code with live chat and a collaborative code window. A link to our video for the presentation can be found [here](https://vimeo.com/178160019) | Frontend: Javascript, Backend: Node.JS, MongoDB | Mocha, Chai, Zombie |
 | [SocialCode](https://github.com/toby676/social-code) | A web-based application designed to enable developers to find places in London to program with other developers | Ruby, Rails, Javascript | Rspec, Capybara
 | [MakersBnB](https://github.com/toby676/makers-bnb) | | Rails | Rspec, Capybara |  
+
+## What my final project team said about me
+
+- Thrives when things aren't easy, it spurs the team on when overcoming challenges
+- Pulls up the group and makes the group feel like we can get through this
+- Good at working with many different personalities
+- Positive energy in a group and a good sense of humour
+- Focused and persistent with testing
+- The ability to explain clearly how things are working
 
 ## Education
 
