@@ -49,12 +49,12 @@ Any time there was an issue in our projects I was usually called in. I love fixi
 
 ## What my final project team said about me
 
-- Thrives when things aren't easy, it spurs the team on when overcoming challenges
-- Pulls up the group and makes the group feel like we can get through this
-- Good at working with many different personalities
-- Positive energy in a group and a good sense of humour
-- Focused and persistent with testing
-- The ability to explain clearly how things are working
+- "Thrives when things aren't easy and spurs the team on when overcoming challenges"
+- "Pulls up the group and makes the us feel like we can get through this"
+- "Good at working with many different personalities"
+- "Positive energy in a group and a good sense of humour"
+- "Focused and committed to TDD"
+- "Wants to fully understand each line of code and the concepts involved"
 
 ## Education
 
