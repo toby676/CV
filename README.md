@@ -1,14 +1,14 @@
 ## Toby Muir-Little
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [What my final project team said about me](#what-my-final-project-team-said-about-me) | [Experience](#experience) | [Interests](#Interests)
+[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [What my final project team said about me](#what-my-final-project-team-said-about-me) | [Interests](#Interests)
 
 #### Former IT Hardware Salesperson turned Full Stack developer
 
-I have worked in a sales environment for the last 4 years. It was great and taught me some invaluable lessons (bulleted below), but I have always dreamt of a career where I can hone a real skill, a skill that I am passionate about.
+I have worked in a sales environment for the last 4 years. It has been exciting and has taught me some invaluable lessons (bulleted below), but I have always dreamt of a career where I can hone a real skill, a skill that I am passionate about and thats why I joined Makers Academy.
 
-Looking back on the last 16 weeks at Makers Academy, the amount I've learnt is incredible. I've gone from knowing nothing about programming to utilising TDD and Pairing to write clean, maintainable code for projects I'm truly proud of.
+Looking back on the last 16 weeks at Makers, the amount I've learnt is incredible. I've gone from knowing nothing about programming to utilising agile principles, including TDD and Pairing, to write clean, maintainable code for projects I'm truly proud of.
 
-I can't wait for the next step. The opportunity to work with amazing people, learn even more and be of real value to a company is truly exciting for me. I have never been happier, I know how to pick up a new technology, and I look forward to becoming the best programmer I possibly can be.
+I can't wait for the next step. The opportunity to work with talented people, learn even more and be of real value to a company is truly exciting for me. I have never been happier, I know how to pick up a new technology, and I look forward to becoming the best programmer I possibly can be.
 
 ## Skills
 
@@ -26,7 +26,7 @@ At Makers, each week we effectively had to start again with a new technology or 
 - AV Product Accreditation. I was the first and only person in the company to complete an exam to allow them to sell a certain line of products. I enjoyed it!
 - A multitude of hobbies including drums, guitar, skiing, snowboarding and flying my mini-drone.
 
-#### Need to Understand
+#### Digging Deeper
 
 I want to learn as much as I can about a technology while working with it. I hesitate to implement a line of code without knowing what it does. This came in useful when delving into socket.io for the first time, and to my ability to solve problems efficiently when a wall of red text appeared.
 - Went the extra mile to understand the technology of the products I was selling to best advise my clients.
@@ -56,6 +56,15 @@ Any time there was an issue in our projects I was usually called in. I love fixi
 - "Focused and committed to TDD"
 - "Wants to fully understand each line of code and the concepts involved"
 
+## Experience
+
+**Channel-C Ltd** September 2015 - May 2016
+*Sales Account Manager*  
+**Beta Distribution Ltd** May 2013 - September 2015
+*Sales Account Manager & AV Specialist*  
+**Beta Distribution Ltd** October 2012 - May 2013
+*Select Account Manager*  
+
 ## Education
 
 #### Makers Academy April 2016 - August 2016
@@ -79,20 +88,11 @@ Any time there was an issue in our projects I was usually called in. I love fixi
 - OCR Level 2 – Young enterprise (regional semi-finalists)
 - ECDL/ICDL Certificate.
 
-## Experience
-
-**Channel-C Ltd** September 2015 - May 2016
-*Sales Account Manager*  
-**Beta Distribution Ltd** May 2013 - September 2015
-*Sales Account Manager & AV Specialist*  
-**Beta Distribution Ltd** October 2012 - May 2013
-*Select Account Manager*  
-
 ## Interests
 
-- Technology
-- Snowsports
-- Music
-- Football
-- Gaming
-- Socialising
+- Technology in all forms. From hardware to software I love reading and learning about new things.
+- Snowsports - I have to get to the alps at least once a year. Im still deciding whether I prefer skiing or snowboarding though.
+- Music - Playing and listening to. I have a broad taste in music but my favourite artist has to be The Flaming Lips.
+- Football - Playing and watching any game.
+- Gaming - I used to play a lot of computer games before starting work. I still enjoy the odd game of Rocket League or getting immersed in a good storyline.
+- Socialising - Ping pong, darts or a beer after work - I'm there.
