@@ -1,5 +1,7 @@
 ## Toby Muir-Little
 
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#Interests)
+
 #### Former IT Hardware Salesperson turned Full Stack developer
 
 I have worked in a sales environment for the last 4 years. It was great and taught me some invaluable lessons (bulleted below), but I have always dreamt of a career where I can hone a real skill, a skill that I am passionate about.
@@ -37,6 +39,8 @@ Any time there was an issue in our projects I was usually called in. I love fixi
 - Guiding clients through unique AV solutions over the phone who knew little about the subject.
 - Pragmatically working with clients to resolve issues, be it credit related or an urgent missed delivery.
 
+## Projects
+
 ## Education
 
 #### Makers Academy April 2016 - August 2016
@@ -68,3 +72,5 @@ Any time there was an issue in our projects I was usually called in. I love fixi
 *Sales Account Manager & AV Specialist*  
 **Beta Distribution Ltd** October 2012 - May 2013
 *Select Account Manager*  
+
+## Interests
