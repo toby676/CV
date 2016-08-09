@@ -14,21 +14,21 @@ I can't wait for the next step. The opportunity to work with amazing people, lea
 
 #### Teamwork & Communication
 
-I've always relished being part of a team and thrive when working with other people. Pairing and Group work have been a part of programming I really care about. I've never had a moment where I couldn't work with someone, be it needing to slow down and really explain an idea to someone, or listening and understanding what my partner has to teach me.
+I've always relished being part of a team and thrive when working with other people. Pairing and Group work have been a part of programming I really care about. I've never had a moment where I couldn't work with someone, be it needing to slow down and really explain an idea to someone, or listening and understanding what my partner has to teach me - especially when seeing javascript for the first time.
 - Understanding and extracting the true needs of clients through listening and asking the right questions.
 - Learning how to develop relationships with new and existing (80) clients.
 - Working in sales teams of 4-6, supporting and looking out for each other.
 
 #### Learning Efficiently
 
-At Makers, each week we effectively had to start again with a new technology or idea. I have not just learnt how to program, but also how to pick up a new language and add value to my team in a short space of time.
+At Makers, each week we effectively had to start again with a new technology or idea. We completed our final project in node which I had never used before. I have not just learnt how to program, but also how to pick up a new language and add value to my team in a short space of time.
 - Appointed Audio-Visual (AV) Product Specialist.
 - AV Product Accreditation. I was the first and only person in the company to complete an exam to allow them to sell a certain line of products. I enjoyed it!
 - A multitude of hobbies including drums, guitar, skiing, snowboarding and flying my mini-drone.
 
 #### Need to Understand
 
-I want to learn as much as I can about a technology while working with it. I hesitate to implement a line of code without knowing what it does. This added to my ability to solve problems efficiently when a wall of red text appeared.
+I want to learn as much as I can about a technology while working with it. I hesitate to implement a line of code without knowing what it does. This came in useful when delving into socket.io for the first time, and to my ability to solve problems efficiently when a wall of red text appeared.
 - Went the extra mile to understand the technology of the products I was selling to best advise my clients.
 - Became the go to expert on other product lines in my team and for clients (Servers, Computers and unfortunately Printers...)
 
