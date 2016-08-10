@@ -45,7 +45,7 @@ Any time there was an issue in our projects I was usually called in. I love fixi
 |---|---|---|---|
 |[CodeFish](https://github.com/toby676/GlobalCodeNetwork) | Final project at Makers Academy. A Web application using log-in, live chat and a real-time collaborative code window to facilitate a 1:1 mentoring experience. A link to our video for the presentation can be found [here](https://vimeo.com/178160019) | Frontend: Javascript, Backend: Node.JS, MongoDB | Mocha, Chai, Zombie |
 | [Social - Code](https://github.com/toby676/social-code) | A web-based application to enable developers to find places in London to program with other developers | Ruby, Rails, Javascript | Rspec, Capybara
-| [MakersBnB](https://github.com/toby676/makers-bnb) | First group project. An Air BnB style project used to learn how to code in a team | Rails | Rspec, Capybara |  
+| [MakersBnB](https://github.com/toby676/makers-bnb) | First group project. An Air BnB style project used to learn how to code in a team | Ruby, Sinatra | Rspec, Capybara |  
 
 ## What my final project team said about me
 
